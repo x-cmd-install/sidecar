@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.14.0"
   latestRelease: "v1.14.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T04:32:36Z
+  collectedAt: 2026-09-09T18:43:53Z
 timeline:
   created: 2025-12-26
   lastCommit: 2026-09-08
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 2026-09-05
   lastPrerelease: 
 popularity:
-  star: 1055
+  star: 1063
   watcher: 6
-  fork: 80
+  fork: 81
   release: 153
   contributor: 22
   pullRequest: 239
@@ -92,7 +92,7 @@ total:
   commit: 3139
 ---
 path: /home/runner/.x-repo/github.com/marcus/sidecar
-collectedAt: 2026-09-09T04:32:44Z
+collectedAt: 2026-09-09T18:44:00Z
 loc:
   Go:
     code: 552889
