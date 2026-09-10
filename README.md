@@ -1,24 +1,64 @@
 # sidecar
 
+[中文版本](./README.cn.md)
+
 Use sidecar next to CLI agents for diffs, file trees, conversation history, and task management with td
 
-- **Upstream**: <https://github.com/marcus/sidecar>
-- **Homepage**: <>
-- **Latest release**: `v1.14.0` (2026-09-05)
-- **Last commit**: 2026-09-08
-- **License**: MIT
-- **Stars**: 1063 · **Forks**: 81 · **Open issues**: 88 · **Contributors**: 22
+![sidecar](https://repo.x-cmd.io/sidecar.svg)
 
-## Installation
+## Install
 
 ```sh
 x install sidecar
 ```
 
-See <https://x-cmd.com/install/sidecar> for details.
+## Source
 
-## Data
+- **Upstream**: <https://github.com/marcus/sidecar>
+- **License**: MIT
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
+## Release
 
-_Last regenerated: 2026-09-09T18:44:06Z._
+- **Latest**: `v1.14.0` (2026-09-05)
+- **Last commit**: 2026-09-08
+- **Assets in release**: 5
+- **Published**: 2026-09-05T19:02:09Z
+
+## Popularity
+
+- **Stars**: 1,065 · **Forks**: 81 · **Open issues**: 88 · **Contributors**: 22
+
+## Totals (cumulative)
+
+- **Releases**: 153 · **Merged PRs**: 194 · **Open PRs**: 1 · **Closed issues**: 61 · **Open issues**: 27 · **Commits**: 3139
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 26 | 54 | 1 | 2 | 1 | 1260 |
+| 90d | 2026-06-12 | 42 | 57 | 1 | 3 | 1 | 1689 |
+| 360d | 2025-09-15 | 100 | 194 | 1 | 61 | 27 | 2786 |
+
+## Code size
+
+Total: **602,862** lines of code across **2485** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Go | 552,889 | 89,444 | 59,607 | 2277 |
+| Json | 26,573 | 0 | 0 | 90 |
+| Sh | 9,156 | 1,549 | 1,214 | 76 |
+| JavaScript | 4,791 | 1,472 | 417 | 29 |
+| Python | 1,867 | 110 | 228 | 13 |
+
+## Improve this data
+
+Install metadata for sidecar lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `sidecar` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+
+- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
+- **Edit the package entry**: <https://github.com/x-cmd/edit/main/sidecar.yml> (or whichever path the index uses)
+
+The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+
+_Snapshot: `data/card/260910.yml` · 2026-09-10T04:32:45Z._
