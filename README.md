@@ -12,44 +12,7 @@ Use sidecar next to CLI agents for diffs, file trees, conversation history, and 
 x install sidecar
 ```
 
-## Source
-
-- **Upstream**: <https://github.com/marcus/sidecar>
-- **License**: MIT
-
-## Release
-
-- **Latest**: `v1.14.0` (2026-09-05)
-- **Last commit**: 2026-09-08
-- **Assets in release**: 5
-
-## Release assets
-
-| Asset | Size | Target |
-|-------|-----:|--------|
-| [checksums.txt](https://github.com/marcus/sidecar/releases/download/v1.14.0/checksums.txt) | 402 B | `other` |
-| [sidecar_1.14.0_darwin_amd64.tar.gz](https://github.com/marcus/sidecar/releases/download/v1.14.0/sidecar_1.14.0_darwin_amd64.tar.gz) | 18.0 MiB | `native/darwin/x64` |
-| [sidecar_1.14.0_darwin_arm64.tar.gz](https://github.com/marcus/sidecar/releases/download/v1.14.0/sidecar_1.14.0_darwin_arm64.tar.gz) | 16.9 MiB | `native/darwin/arm64` |
-| [sidecar_1.14.0_linux_amd64.tar.gz](https://github.com/marcus/sidecar/releases/download/v1.14.0/sidecar_1.14.0_linux_amd64.tar.gz) | 17.7 MiB | `native/linux/x64` |
-| [sidecar_1.14.0_linux_arm64.tar.gz](https://github.com/marcus/sidecar/releases/download/v1.14.0/sidecar_1.14.0_linux_arm64.tar.gz) | 16.2 MiB | `native/linux/arm64` |
-
-## Popularity
-
-- **Stars**: 1,067 · **Forks**: 81 · **Open issues**: 88 · **Contributors**: 22
-
-## Totals (cumulative)
-
-- **Releases**: 153 · **Merged PRs**: 194 · **Open PRs**: 1 · **Closed issues**: 61 · **Open issues**: 27 · **Commits**: 3139
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 26 | 54 | 1 | 2 | 1 | 0 |
-| 90d | 2026-06-12 | 42 | 57 | 1 | 3 | 1 | 0 |
-| 360d | 2025-09-15 | 100 | 194 | 1 | 61 | 27 | 0 |
-
-## Code size
+## Code insight
 
 Total: **602,862** lines of code across **2485** files in the top 5 languages.
 
@@ -61,6 +24,46 @@ Total: **602,862** lines of code across **2485** files in the top 5 languages.
 | JavaScript | 4,791 | 1,472 | 417 | 29 |
 | Python | 1,867 | 110 | 228 | 13 |
 
+## Source
+
+- **Upstream**: <https://github.com/marcus/sidecar>
+- **License**: MIT
+
+## Release
+
+- **Latest**: `v1.14.0` (2026-09-05)
+- **Last commit**: 2026-09-08
+- **Assets in release**: 5
+
+## Popularity
+
+- **Stars**: 1,068 · **Forks**: 81 · **Open issues**: 88 · **Contributors**: 22
+
+## Totals (cumulative)
+
+- **Releases**: 153 · **Merged PRs**: 194 · **Open PRs**: 1 · **Closed issues**: 61 · **Open issues**: 27 · **Commits**: 3139
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-12 | 24 | 53 | 1 | 2 | 1 | 1260 |
+| last60d | 2026-07-13 | 40 | 56 | 1 | 2 | 1 | 1681 |
+| 90d | 2026-06-13 | 42 | 57 | 1 | 3 | 1 | 1689 |
+| last180d | 2026-03-15 | 49 | 63 | 1 | 6 | 4 | 1722 |
+| 360d | 2025-09-16 | 100 | 194 | 1 | 61 | 27 | 2786 |
+| last720d | 2024-09-21 | 100 | 194 | 1 | 61 | 27 | 3139 |
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [checksums.txt](https://github.com/marcus/sidecar/releases/download/v1.14.0/checksums.txt) | 402 B | `other` |
+| [sidecar_1.14.0_darwin_amd64.tar.gz](https://github.com/marcus/sidecar/releases/download/v1.14.0/sidecar_1.14.0_darwin_amd64.tar.gz) | 18.0 MiB | `native/darwin/x64` |
+| [sidecar_1.14.0_darwin_arm64.tar.gz](https://github.com/marcus/sidecar/releases/download/v1.14.0/sidecar_1.14.0_darwin_arm64.tar.gz) | 16.9 MiB | `native/darwin/arm64` |
+| [sidecar_1.14.0_linux_amd64.tar.gz](https://github.com/marcus/sidecar/releases/download/v1.14.0/sidecar_1.14.0_linux_amd64.tar.gz) | 17.7 MiB | `native/linux/x64` |
+| [sidecar_1.14.0_linux_arm64.tar.gz](https://github.com/marcus/sidecar/releases/download/v1.14.0/sidecar_1.14.0_linux_arm64.tar.gz) | 16.2 MiB | `native/linux/arm64` |
+
 ## Improve this data
 
 Install metadata for sidecar lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `sidecar` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -70,4 +73,4 @@ Install metadata for sidecar lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:13:38Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T00:12:47Z._
