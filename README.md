@@ -14,15 +14,15 @@ x install sidecar
 
 ## Code insight
 
-Total: **602,862** lines of code across **2485** files in the top 5 languages.
+Total: **604,597** lines of code across **2494** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 552,889 | 89,444 | 59,607 | 2277 |
-| Json | 26,573 | 0 | 0 | 90 |
-| Sh | 9,156 | 1,549 | 1,214 | 76 |
+| Go | 553,419 | 89,473 | 59,641 | 2282 |
+| Json | 27,009 | 0 | 0 | 93 |
+| Sh | 9,221 | 1,569 | 1,222 | 76 |
 | JavaScript | 4,791 | 1,472 | 417 | 29 |
-| Python | 1,867 | 110 | 228 | 13 |
+| Python | 2,032 | 114 | 247 | 14 |
 
 ## Source
 
@@ -32,7 +32,7 @@ Total: **602,862** lines of code across **2485** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.14.0` (2026-09-05)
-- **Last commit**: 2026-09-08
+- **Last commit**: 2026-09-14
 - **Assets in release**: 5
 
 ## Popularity
@@ -41,18 +41,18 @@ Total: **602,862** lines of code across **2485** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 153 · **Merged PRs**: 194 · **Open PRs**: 1 · **Closed issues**: 61 · **Open issues**: 27 · **Commits**: 3139
+- **Releases**: 153 · **Merged PRs**: 194 · **Open PRs**: 1 · **Closed issues**: 61 · **Open issues**: 27 · **Commits**: 3146
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 21 | 39 | 1 | 2 | 0 | 790 |
-| last60d | 2026-07-16 | 40 | 56 | 1 | 2 | 1 | 1681 |
-| 90d | 2026-06-16 | 42 | 57 | 1 | 2 | 1 | 1681 |
-| last180d | 2026-03-18 | 49 | 62 | 1 | 6 | 4 | 1711 |
-| 360d | 2025-09-19 | 100 | 194 | 1 | 61 | 27 | 2786 |
-| last720d | 2024-09-24 | 100 | 194 | 1 | 61 | 27 | 3139 |
+| 30d | 2026-08-16 | 21 | 35 | 1 | 2 | 0 | 797 |
+| last60d | 2026-07-17 | 40 | 56 | 1 | 2 | 1 | 1688 |
+| 90d | 2026-06-17 | 42 | 57 | 1 | 2 | 1 | 1688 |
+| last180d | 2026-03-19 | 49 | 62 | 1 | 6 | 4 | 1718 |
+| 360d | 2025-09-20 | 100 | 194 | 1 | 61 | 27 | 2793 |
+| last720d | 2024-09-25 | 100 | 194 | 1 | 61 | 27 | 3146 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for sidecar lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T04:53:33Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T05:00:54Z._
