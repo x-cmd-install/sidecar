@@ -37,7 +37,7 @@ Total: **604,597** lines of code across **2494** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,073 · **Forks**: 81 · **Open issues**: 88 · **Contributors**: 22
+- **Stars**: 1,074 · **Forks**: 81 · **Open issues**: 88 · **Contributors**: 22
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **604,597** lines of code across **2494** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-17 | 21 | 33 | 1 | 2 | 0 | 797 |
-| last60d | 2026-07-18 | 40 | 56 | 1 | 2 | 1 | 1688 |
-| 90d | 2026-06-18 | 40 | 57 | 1 | 2 | 1 | 1688 |
-| last180d | 2026-03-20 | 49 | 62 | 1 | 6 | 4 | 1718 |
-| 360d | 2025-09-21 | 100 | 194 | 1 | 61 | 27 | 2793 |
-| last720d | 2024-09-26 | 100 | 194 | 1 | 61 | 27 | 3146 |
+| 30d | 2026-08-18 | 18 | 30 | 1 | 2 | 0 | 797 |
+| last60d | 2026-07-19 | 40 | 56 | 1 | 2 | 1 | 1688 |
+| 90d | 2026-06-19 | 40 | 56 | 1 | 2 | 1 | 1688 |
+| last180d | 2026-03-21 | 49 | 62 | 1 | 6 | 4 | 1718 |
+| 360d | 2025-09-22 | 100 | 194 | 1 | 61 | 27 | 2793 |
+| last720d | 2024-09-27 | 100 | 194 | 1 | 61 | 27 | 3146 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for sidecar lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260916.yml` · 2026-09-16T04:47:18Z._
+_Snapshot: `data/card/260917.yml` · 2026-09-17T04:56:29Z._
