@@ -4,7 +4,7 @@
 
 Use sidecar next to CLI agents for diffs, file trees, conversation history, and task management with td
 
-![sidecar](https://repo.x-cmd.io/sidecar.svg?lang=zh)
+[![x-cmd/install — sidecar Code Quality Monitoring Repo Card](https://repo.x-cmd.io/sidecar.svg?lang=zh)](https://x-cmd.com/install/sidecar)
 
 ## 安装
 
@@ -37,7 +37,7 @@ x install sidecar
 
 ## 流行度
 
-- **Star**: 1,075 · **Fork**: 81 · **开放 issue**: 88 · **贡献者**: 22
+- **Star**: 1,076 · **Fork**: 82 · **开放 issue**: 88 · **贡献者**: 22
 
 ## 累计统计
 
@@ -47,12 +47,12 @@ x install sidecar
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 17 | 28 | 1 | 2 | 0 | 797 |
-| last60d | 2026-07-20 | 40 | 56 | 1 | 2 | 1 | 1688 |
-| 90d | 2026-06-20 | 40 | 56 | 1 | 2 | 1 | 1688 |
-| last180d | 2026-03-22 | 47 | 62 | 1 | 6 | 4 | 1718 |
-| 360d | 2025-09-23 | 100 | 194 | 1 | 61 | 27 | 2793 |
-| last720d | 2024-09-28 | 100 | 194 | 1 | 61 | 27 | 3146 |
+| 30d | 2026-08-21 | 12 | 19 | 1 | 2 | 0 | 585 |
+| last60d | 2026-07-22 | 40 | 56 | 1 | 2 | 1 | 1624 |
+| 90d | 2026-06-22 | 40 | 56 | 1 | 2 | 1 | 1688 |
+| last180d | 2026-03-24 | 47 | 60 | 1 | 5 | 4 | 1709 |
+| 360d | 2025-09-25 | 100 | 194 | 1 | 61 | 27 | 2793 |
+| last720d | 2024-09-30 | 100 | 194 | 1 | 61 | 27 | 3146 |
 
 ## Release 资产
 
@@ -73,4 +73,4 @@ sidecar 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T04:43:20Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T04:48:42Z._
