@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 19000069,
       "digest": "sha256:7b62bfab43da143bb955910d95c83b96e352403e3083b9024596d120e78c465f",
-      "download_count": 1,
+      "download_count": 4,
       "created_at": "2026-10-01T00:49:22Z",
       "updated_at": "2026-10-01T00:49:24Z",
       "browser_download_url": "https://github.com/marcus/sidecar/releases/download/v1.15.1/sidecar_1.15.1_linux_amd64.tar.gz"
