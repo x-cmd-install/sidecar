@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 402,
       "digest": "sha256:c673ca19d67b0df4c4fab9598ba14d5461088ee18e77bdd2b843f7de4dddd774",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-10-01T00:49:24Z",
       "updated_at": "2026-10-01T00:49:24Z",
       "browser_download_url": "https://github.com/marcus/sidecar/releases/download/v1.15.1/checksums.txt"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 19000069,
       "digest": "sha256:7b62bfab43da143bb955910d95c83b96e352403e3083b9024596d120e78c465f",
-      "download_count": 12,
+      "download_count": 17,
       "created_at": "2026-10-01T00:49:22Z",
       "updated_at": "2026-10-01T00:49:24Z",
       "browser_download_url": "https://github.com/marcus/sidecar/releases/download/v1.15.1/sidecar_1.15.1_linux_amd64.tar.gz"
