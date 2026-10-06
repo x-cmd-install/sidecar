@@ -14,14 +14,14 @@ x install sidecar
 
 ## 代码洞察
 
-合计: **655,101** 行代码（覆盖前 5 种语言、共 **2737** 个文件）。
+合计: **658,182** 行代码（覆盖前 5 种语言、共 **2747** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 589,903 | 91,655 | 61,606 | 2470 |
-| Json | 37,629 | 0 | 0 | 122 |
+| Go | 592,914 | 92,066 | 61,786 | 2480 |
+| Json | 37,697 | 0 | 0 | 122 |
 | Sh | 10,231 | 1,677 | 1,286 | 88 |
-| JavaScript | 5,595 | 1,518 | 454 | 33 |
+| JavaScript | 5,597 | 1,518 | 454 | 33 |
 | Svg | 2,216 | 23 | 47 | 24 |
 
 ## 源代码
@@ -31,8 +31,8 @@ x install sidecar
 
 ## 发布
 
-- **最新版本**: `v1.15.1` (2026-10-01)
-- **最近提交**: 2026-10-04
+- **最新版本**: `v1.16.0` (2026-10-05)
+- **最近提交**: 2026-10-05
 - **Release 含资产**: 5 个
 
 ## 流行度
@@ -41,28 +41,28 @@ x install sidecar
 
 ## 累计统计
 
-- **发布数**: 154 · **已合并 PR**: 195 · **开放 PR**: 0 · **已关闭 issue**: 61 · **开放 issue**: 27 · **提交数**: 3476
+- **发布数**: 155 · **已合并 PR**: 195 · **开放 PR**: 1 · **已关闭 issue**: 61 · **开放 issue**: 27 · **提交数**: 3509
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 2 | 1 | 0 | 0 | 0 | 249 |
-| last60d | 2026-08-06 | 33 | 57 | 0 | 2 | 1 | 1600 |
-| 90d | 2026-07-07 | 41 | 57 | 0 | 2 | 1 | 1935 |
-| last180d | 2026-04-08 | 45 | 60 | 0 | 4 | 4 | 1956 |
-| 360d | 2025-10-10 | 100 | 195 | 0 | 61 | 27 | 3040 |
-| last720d | 2024-10-15 | 100 | 195 | 0 | 61 | 27 | 3476 |
+| 30d | 2026-09-06 | 2 | 1 | 1 | 0 | 0 | 282 |
+| last60d | 2026-08-07 | 33 | 57 | 1 | 2 | 1 | 1633 |
+| 90d | 2026-07-08 | 42 | 57 | 1 | 2 | 1 | 1968 |
+| last180d | 2026-04-09 | 46 | 60 | 1 | 4 | 4 | 1989 |
+| 360d | 2025-10-11 | 100 | 195 | 1 | 61 | 27 | 3073 |
+| last720d | 2024-10-16 | 100 | 195 | 1 | 61 | 27 | 3509 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [checksums.txt](https://github.com/marcus/sidecar/releases/download/v1.15.1/checksums.txt) | 402 B | `other` |
-| [sidecar_1.15.1_darwin_amd64.tar.gz](https://github.com/marcus/sidecar/releases/download/v1.15.1/sidecar_1.15.1_darwin_amd64.tar.gz) | 18.4 MiB | `native/darwin/x64` |
-| [sidecar_1.15.1_darwin_arm64.tar.gz](https://github.com/marcus/sidecar/releases/download/v1.15.1/sidecar_1.15.1_darwin_arm64.tar.gz) | 17.3 MiB | `native/darwin/arm64` |
-| [sidecar_1.15.1_linux_amd64.tar.gz](https://github.com/marcus/sidecar/releases/download/v1.15.1/sidecar_1.15.1_linux_amd64.tar.gz) | 18.1 MiB | `native/linux/x64` |
-| [sidecar_1.15.1_linux_arm64.tar.gz](https://github.com/marcus/sidecar/releases/download/v1.15.1/sidecar_1.15.1_linux_arm64.tar.gz) | 16.6 MiB | `native/linux/arm64` |
+| [checksums.txt](https://github.com/marcus/sidecar/releases/download/v1.16.0/checksums.txt) | 402 B | `other` |
+| [sidecar_1.16.0_darwin_amd64.tar.gz](https://github.com/marcus/sidecar/releases/download/v1.16.0/sidecar_1.16.0_darwin_amd64.tar.gz) | 19.1 MiB | `native/darwin/x64` |
+| [sidecar_1.16.0_darwin_arm64.tar.gz](https://github.com/marcus/sidecar/releases/download/v1.16.0/sidecar_1.16.0_darwin_arm64.tar.gz) | 18.0 MiB | `native/darwin/arm64` |
+| [sidecar_1.16.0_linux_amd64.tar.gz](https://github.com/marcus/sidecar/releases/download/v1.16.0/sidecar_1.16.0_linux_amd64.tar.gz) | 18.8 MiB | `native/linux/x64` |
+| [sidecar_1.16.0_linux_arm64.tar.gz](https://github.com/marcus/sidecar/releases/download/v1.16.0/sidecar_1.16.0_linux_arm64.tar.gz) | 17.2 MiB | `native/linux/arm64` |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ sidecar 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261005.yml` · 2026-10-05T05:31:05Z._
+_数据快照: `data/card/261006.yml` · 2026-10-06T06:13:02Z._
