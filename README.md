@@ -47,12 +47,12 @@ Total: **658,182** lines of code across **2747** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 2 | 0 | 1 | 0 | 0 | 282 |
-| last60d | 2026-08-08 | 33 | 57 | 1 | 2 | 1 | 1633 |
-| 90d | 2026-07-09 | 42 | 57 | 1 | 2 | 1 | 1968 |
-| last180d | 2026-04-10 | 46 | 60 | 1 | 4 | 4 | 1989 |
-| 360d | 2025-10-12 | 100 | 195 | 1 | 61 | 27 | 3073 |
-| last720d | 2024-10-17 | 100 | 195 | 1 | 61 | 27 | 3509 |
+| 30d | 2026-09-08 | 2 | 0 | 1 | 0 | 0 | 282 |
+| last60d | 2026-08-09 | 32 | 57 | 1 | 2 | 1 | 1633 |
+| 90d | 2026-07-10 | 42 | 57 | 1 | 2 | 1 | 1968 |
+| last180d | 2026-04-11 | 46 | 60 | 1 | 4 | 4 | 1989 |
+| 360d | 2025-10-13 | 100 | 195 | 1 | 61 | 27 | 3073 |
+| last720d | 2024-10-18 | 100 | 195 | 1 | 61 | 27 | 3509 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for sidecar lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261007.yml` · 2026-10-07T05:49:04Z._
+_Snapshot: `data/card/261008.yml` · 2026-10-08T05:54:19Z._
