@@ -14,13 +14,13 @@ x install sidecar
 
 ## Code insight
 
-Total: **658,182** lines of code across **2747** files in the top 5 languages.
+Total: **674,199** lines of code across **2808** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 592,914 | 92,066 | 61,786 | 2480 |
-| Json | 37,697 | 0 | 0 | 122 |
-| Sh | 10,231 | 1,677 | 1,286 | 88 |
+| Go | 606,015 | 93,020 | 62,519 | 2536 |
+| Json | 40,609 | 0 | 0 | 126 |
+| Sh | 10,235 | 1,678 | 1,286 | 89 |
 | JavaScript | 5,597 | 1,518 | 454 | 33 |
 | Svg | 2,216 | 23 | 47 | 24 |
 
@@ -31,38 +31,38 @@ Total: **658,182** lines of code across **2747** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.16.0` (2026-10-05)
-- **Last commit**: 2026-10-05
+- **Latest**: `v1.17.1` (2026-10-08)
+- **Last commit**: 2026-10-08
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 1,085 · **Forks**: 82 · **Open issues**: 88 · **Contributors**: 23
+- **Stars**: 1,086 · **Forks**: 82 · **Open issues**: 88 · **Contributors**: 23
 
 ## Totals (cumulative)
 
-- **Releases**: 155 · **Merged PRs**: 195 · **Open PRs**: 1 · **Closed issues**: 61 · **Open issues**: 27 · **Commits**: 3509
+- **Releases**: 157 · **Merged PRs**: 195 · **Open PRs**: 1 · **Closed issues**: 61 · **Open issues**: 27 · **Commits**: 3569
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-08 | 2 | 0 | 1 | 0 | 0 | 282 |
-| last60d | 2026-08-09 | 32 | 57 | 1 | 2 | 1 | 1633 |
-| 90d | 2026-07-10 | 42 | 57 | 1 | 2 | 1 | 1968 |
-| last180d | 2026-04-11 | 46 | 60 | 1 | 4 | 4 | 1989 |
-| 360d | 2025-10-13 | 100 | 195 | 1 | 61 | 27 | 3073 |
-| last720d | 2024-10-18 | 100 | 195 | 1 | 61 | 27 | 3509 |
+| 30d | 2026-09-09 | 4 | 0 | 1 | 0 | 0 | 339 |
+| last60d | 2026-08-10 | 34 | 57 | 1 | 2 | 1 | 1690 |
+| 90d | 2026-07-11 | 44 | 57 | 1 | 2 | 1 | 2025 |
+| last180d | 2026-04-12 | 48 | 60 | 1 | 4 | 4 | 2046 |
+| 360d | 2025-10-14 | 100 | 195 | 1 | 61 | 27 | 3130 |
+| last720d | 2024-10-19 | 100 | 195 | 1 | 61 | 27 | 3569 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [checksums.txt](https://github.com/marcus/sidecar/releases/download/v1.16.0/checksums.txt) | 402 B | `other` |
-| [sidecar_1.16.0_darwin_amd64.tar.gz](https://github.com/marcus/sidecar/releases/download/v1.16.0/sidecar_1.16.0_darwin_amd64.tar.gz) | 19.1 MiB | `native/darwin/x64` |
-| [sidecar_1.16.0_darwin_arm64.tar.gz](https://github.com/marcus/sidecar/releases/download/v1.16.0/sidecar_1.16.0_darwin_arm64.tar.gz) | 18.0 MiB | `native/darwin/arm64` |
-| [sidecar_1.16.0_linux_amd64.tar.gz](https://github.com/marcus/sidecar/releases/download/v1.16.0/sidecar_1.16.0_linux_amd64.tar.gz) | 18.8 MiB | `native/linux/x64` |
-| [sidecar_1.16.0_linux_arm64.tar.gz](https://github.com/marcus/sidecar/releases/download/v1.16.0/sidecar_1.16.0_linux_arm64.tar.gz) | 17.2 MiB | `native/linux/arm64` |
+| [checksums.txt](https://github.com/marcus/sidecar/releases/download/v1.17.1/checksums.txt) | 402 B | `other` |
+| [sidecar_1.17.1_darwin_amd64.tar.gz](https://github.com/marcus/sidecar/releases/download/v1.17.1/sidecar_1.17.1_darwin_amd64.tar.gz) | 19.3 MiB | `native/darwin/x64` |
+| [sidecar_1.17.1_darwin_arm64.tar.gz](https://github.com/marcus/sidecar/releases/download/v1.17.1/sidecar_1.17.1_darwin_arm64.tar.gz) | 18.2 MiB | `native/darwin/arm64` |
+| [sidecar_1.17.1_linux_amd64.tar.gz](https://github.com/marcus/sidecar/releases/download/v1.17.1/sidecar_1.17.1_linux_amd64.tar.gz) | 19.0 MiB | `native/linux/x64` |
+| [sidecar_1.17.1_linux_arm64.tar.gz](https://github.com/marcus/sidecar/releases/download/v1.17.1/sidecar_1.17.1_linux_arm64.tar.gz) | 17.4 MiB | `native/linux/arm64` |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for sidecar lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261008.yml` · 2026-10-08T05:54:19Z._
+_Snapshot: `data/card/261009.yml` · 2026-10-09T06:02:06Z._
