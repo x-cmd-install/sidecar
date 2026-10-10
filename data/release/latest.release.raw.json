@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 402,
       "digest": "sha256:e8f60a2782c473c3615dcc1f67b62000ccb5ec9cf71cc16b16ebea51519a9729",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-10-08T21:25:47Z",
       "updated_at": "2026-10-08T21:25:48Z",
       "browser_download_url": "https://github.com/marcus/sidecar/releases/download/v1.17.1/checksums.txt"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 19068317,
       "digest": "sha256:18dda733460a2603ff850e02e52f2ded1b1d5826c4e392b8466c80b8f76f97af",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-10-08T21:25:46Z",
       "updated_at": "2026-10-08T21:25:47Z",
       "browser_download_url": "https://github.com/marcus/sidecar/releases/download/v1.17.1/sidecar_1.17.1_darwin_arm64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 19944562,
       "digest": "sha256:f0122d00e1e991eaeb4a7547893da805932d85393213b4be180ef717a23ea0e8",
-      "download_count": 1,
+      "download_count": 4,
       "created_at": "2026-10-08T21:25:46Z",
       "updated_at": "2026-10-08T21:25:47Z",
       "browser_download_url": "https://github.com/marcus/sidecar/releases/download/v1.17.1/sidecar_1.17.1_linux_amd64.tar.gz"
